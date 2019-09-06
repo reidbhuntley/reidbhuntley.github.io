@@ -2,6 +2,7 @@
 ---
 
 ## MATH 240 with Danul 2019 Notes
+* [6 September 2019](/MATH240/6September)
 * [4 September 2019](/MATH240/4September)
 * [30 August 2019](/MATH240/30August)
 * [28 August 2019](/MATH240/28August)
