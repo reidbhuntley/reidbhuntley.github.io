@@ -11,6 +11,7 @@
 ---
 
 ## HIST 111 with C.Ho 2019 Notes
+* [10 September 2019](/HIST111/10September)
 * [5 September 2019](/HIST111/5September)
 * [3 September 2019](/HIST111/3September)
 * [29 August 2019](/HIST111/29August)
