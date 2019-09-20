@@ -2,6 +2,7 @@
 ---
 
 ## MATH 240 with Danul 2019 Notes
+* [20 September 2019](/MATH240/20September)
 * [18 September 2019](/MATH240/18September)
 * [16 September 2019](/MATH240/16September)
 * [11 September 2019](/MATH240/11September)
@@ -14,6 +15,7 @@
 ---
 
 ## HIST 111 with C.Ho 2019 Notes
+* [19 September 2019](/HIST111/19September)
 * [17 September 2019](/HIST111/17September)
 * [12 September 2019](/HIST111/12September)
 * [10 September 2019](/HIST111/10September)
