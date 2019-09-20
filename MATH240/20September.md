@@ -15,7 +15,7 @@ For two matrices $A,B$, for $AB$ to be defined, the number of _columns_ in $A$ m
 
 If $A$ is $m\times n$ and $B$ is $n\times p$, then $AB$ will be $m\times p$.
 
-If you lay the $i$th row of $A$ over the $j$th row of $B$, multiply element-wise, and add the results together, you get element $i,j$ of $AB$.
+If you lay the $i$th _row_ of $A$ over the $j$th _column_ of $B$, multiply element-wise, and add the results together, you get element $i,j$ of $AB$.
 
 __Ex.__
 $$
@@ -37,7 +37,7 @@ $$
 \end{aligned}
 $$
 
-# Transpose
+## Transpose
 For a matrix $A$, its transpose $A^T$ is the matrix whose _columns_ are the _rows_ of $A$.
 
 __Ex.__
