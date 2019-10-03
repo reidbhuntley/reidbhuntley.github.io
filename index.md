@@ -16,6 +16,7 @@ If this page is useful to you, consider donating!
 ---
 
 ## MATH 240 with Danul 2019 Notes
+* [2 October 2019](/MATH240/2October)
 * [30 September 2019](/MATH240/30September)
 * [23 September 2019](/MATH240/23September)
 * [20 September 2019](/MATH240/20September)
