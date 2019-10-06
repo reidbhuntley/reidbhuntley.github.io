@@ -99,11 +99,11 @@ $$
 $$
 
 ---
-## Determinant of Triangular Matrices
+## Determinant of Diagonal Matrices
 
-__Definition.__ A _triangular matrix_ is a matrix where all of the non-diagonal entries are zero.
+__Definition.__ A _diagonal matrix_ is a matrix where all of the non-diagonal entries are zero.
 
-For a triangular matrix $A$, the determinant of $A$ is the product of its diagonal entries.
+For a diagonal matrix $A$, the determinant of $A$ is the product of its diagonal entries.
 
 __Ex.__
 $$
