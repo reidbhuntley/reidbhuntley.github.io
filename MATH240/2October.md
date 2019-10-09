@@ -60,12 +60,12 @@ $$
 $$
 
 ---
-## Cofactor Matrices
+## Cofactors
 
 Given an $n\times n$ matrix $A$, let $C_{ij}=(-1)^{i+j} \ \text{det}A_{ij}$. The determinant of $A$ now becomes
 $$
 \text{det}A=a_{11}C_{11}+a_{12}C_{12}+...+a_{1n}C_{1n}.
-$$ These $C$-matrices are known as __cofactor matrices__ of $A$.
+$$ These $C$-matrices are known as __cofactors__ of $A$.
 
 ---
 __Theorem__: The determinant of a $n\times n$ matrix $A$ can be computed by a cofactor expansion
