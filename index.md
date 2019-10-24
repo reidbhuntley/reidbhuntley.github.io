@@ -16,6 +16,7 @@ If this page is useful to you, consider donating!
 ---
 
 ## MATH 240 with Danul 2019 Notes
+* [23 October 2019](/MATH240/21October)
 * [21 October 2019](/MATH240/21October)
 * [18 October 2019](/MATH240/18October)
 * [16 October 2019](/MATH240/16October)
@@ -40,6 +41,8 @@ If this page is useful to you, consider donating!
 ---
 
 ## HIST 111 with C.Ho 2019 Notes
+* [24 October 2019](/HIST111/24October)
+* [22 October 2019](/HIST111/22October)
 * [17 October 2019](/HIST111/17October)
 * [8 October 2019](/HIST111/8October)
 * [3 October 2019](/HIST111/3October)

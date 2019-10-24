@@ -29,7 +29,7 @@ __Ex.__ If $b_1=\begin{pmatrix}
         1\\2
     \end{pmatrix}\\
     &=\begin{pmatrix}
-        1\\1
+        1\\6
     \end{pmatrix}.
 \end{aligned}
 $$
