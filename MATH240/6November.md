@@ -73,7 +73,7 @@ __Theorem:__ An $n\times n$ matrix $A$ is diagonalizable if and only if $A$ has 
 
 __Theorem:__ An $n\times n$ matrix with $n$ _distinct_ eigenvalues is diagonalizable. _(This is from another theorem stating that eigenvectors that correspond to distinct eigenvalues are linearly independent.)_
 
-In order to determine if $A$ is diagonalizable, we can find the eigenvalues of $A$ by solving $\text{det}(A-\lambda I)=0$ for $\lambda$, then determining whether or not this set contains $n$ distinct _(unique)_ values. In this way, determining if a matrix is diagonalizable is now a completely algorithmic process.
+In order to determine if $A$ is diagonalizable, we can find the eigenvalues of $A$ by solving $\text{det}(A-\lambda I)=0$ for $\lambda$, then determining whether or not they are distinct. If they are, then $A$ is definitely diagonalizable. Otherwise, we have to find eigenvectors for each eigenvalue and see if they are linearly independent. In this way, determining if a matrix is diagonalizable is now a completely algorithmic process.
 
 ---
 __Ex.__ Is this matrix diagonalizable?
