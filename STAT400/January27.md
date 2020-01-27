@@ -50,7 +50,7 @@ __Ex.__
 * $\{I>3400\}$
 * $\{T_1>T_2\}$
 
-(Note that there are _infinitely many_ outcomes that satisfy the 3rd and 4th events above, so we call these events __continuous__. Events with _finitely many_ outcomes we call __discrete__.)
+(Note that there are _infinitely many_ outcomes that satisfy the 3rd and 4th events above, but only _finitely many_ outcomes that satisfy the 1st and 2nd.)
 
 ---
 ## Sample Space
