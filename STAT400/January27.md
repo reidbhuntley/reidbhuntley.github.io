@@ -62,7 +62,7 @@ __Ex.__
 * $S=(0,\infin)$
 * $S=(a,\infin )\times (a,\infin )$ _(Cartesian product)_
 
-With this definition, events are simply __subspaces__ of the sample space of the experiment they arise form.
+With this definition, events are simply __subsets__ of the sample space of the experiment they arise form.
 
 An event is called __simple__ if it contains one outcome. _(ex. $\{\text{Heads}\}$)_
 Likewise, an event is called __compound__ if it contains more than one outcome. _(ex. $\{1,3,5\}$)_
