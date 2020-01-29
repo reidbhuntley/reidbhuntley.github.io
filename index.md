@@ -16,6 +16,7 @@ If this page is useful to you, consider donating!
 ---
 
 ## STAT 400
+* [1/29/2020 - Axioms and Properties of Probability](/STAT400/January29)
 * [1/27/2020 - Class Overview, Events, Sample Spaces](/STAT400/January27)
 
 ---
