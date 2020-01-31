@@ -62,4 +62,4 @@ We can derive all other properties of probability from these three axioms.
     * $A\cup A'=S$
 4. $P(A) \le 1$.
 5. $P(A\cup B)=P(A)+P(B)-P(A\cap B)$. _(You need to subtract away the probability of events in $A$ AND $B$ so they don't get double counted)_
-6. $P(A\cup B\cup C)=P(A)+P(B)+P(C)-P(A\cap B)-P(B\cap C)-P(A\cap C)+A(A\cap B\cap C)$. _(Same reasoning as above)_
+6. $P(A\cup B\cup C)=P(A)+P(B)+P(C)-P(A\cap B)-P(B\cap C)-P(A\cap C)+P(A\cap B\cap C)$. _(Same reasoning as above)_
