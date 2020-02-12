@@ -16,6 +16,7 @@ If this page is useful to you, consider donating!
 ---
 
 ## STAT 400
+* [2/10/2020 - Random Variables cont., Probability Distribution, Parameters](/STAT400/February10)
 * [2/7/2020 - Independence cont., Random Variables](/STAT400/February7)
 * [2/5/2020 - Conditional Probability cont., Total Probability, Bayes's Theorem, Independence](/STAT400/February5)
 * [2/3/2020 - Permutations vs. Combinations, Conditional Probability](/STAT400/February3)
