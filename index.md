@@ -16,6 +16,9 @@ If this page is useful to you, consider donating!
 ---
 
 ## STAT 400
+* [2/17/2020 - Variance and Standard Deviation](/STAT400/February17)
+* [2/14/2020 - Cumulative Distribution Functions cont., Expected Value](/STAT400/February14)
+* [2/12/2020 - Parameters cont., Cumulative Distribution Functions](/STAT400/February12)
 * [2/10/2020 - Random Variables cont., Probability Distribution, Parameters](/STAT400/February10)
 * [2/7/2020 - Independence cont., Random Variables](/STAT400/February7)
 * [2/5/2020 - Conditional Probability cont., Total Probability, Bayes's Theorem, Independence](/STAT400/February5)
