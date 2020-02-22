@@ -14,10 +14,10 @@ __Ex.__ Suppose $N=20$, $M=12$ (so $N-M=8$), and $n=5$. Find the probability mas
 Possible values of $X$: $0,1,2,...5$.
 $$
 \begin{aligned}
-    p(0)=P(X=0)&=\frac{8\choose 5}{20\choose 5}\\
-    p(1)=P(X=1)&=\frac{{12\choose1}\cdot {8\choose 4}}{20\choose 5}\\
-    p(2)=P(X=2)&=\frac{{12\choose2}\cdot {8\choose 3}}{20\choose 5}\\
-    p(3)=P(X=3)&=\frac{{12\choose3}\cdot {8\choose 2}}{20\choose 5}\\
+    p(0)=P(X=0)&=\frac{8 \choose 5}{20\choose 5}\\
+    p(1)=P(X=1)&=\frac{{12 \choose 1}\cdot {8 \choose 4}}{20 \choose 5}\\
+    p(2)=P(X=2)&=\frac{{12 \choose 2}\cdot {8 \choose 3}}{20 \choose 5}\\
+    p(3)=P(X=3)&=\frac{{12 \choose 3}\cdot {8 \choose 2}}{20 \choose 5}\\
     ...
 \end{aligned}
 $$
@@ -31,7 +31,7 @@ c) $0\le n-k \le N-M$
 These can be combined into one constraint: $$\text{Max}\{0,\ n-N+M\}\le k \le \text{Min}\{n,\ M\}.$$
 
 For any $k$ satisfying this constraint, $$
-p(k)=P(X=k)=\frac{{M\choose k}{N-M \choose n-k}}{N \choose n}
+p(k)=P(X=k)=\frac{{M \choose k}{N-M \choose n-k}}{N \choose n}
 $$
 
 Here, $p$ is the probability mass function for the hypergeometric distribution. It is usually represented by the notation $h(k;n,M,n)$.
