@@ -16,6 +16,8 @@ If this page is useful to you, consider donating!
 ---
 
 ## STAT 400
+* [2/21/2020 - Hypergeometric & Negative Binomial Distributions](/STAT400/February21)
+* [2/19/2020 - Binomial Distribution](/STAT400/February19)
 * [2/17/2020 - Variance and Standard Deviation](/STAT400/February17)
 * [2/14/2020 - Cumulative Distribution Functions cont., Expected Value](/STAT400/February14)
 * [2/12/2020 - Parameters cont., Cumulative Distribution Functions](/STAT400/February12)
