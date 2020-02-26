@@ -16,6 +16,7 @@ If this page is useful to you, consider donating!
 ---
 
 ## STAT 400
+* [2/26/2020 - Continuous Random Variables, Probability Density Functions, Uniform Distribution](/STAT400/February26)
 * [2/24/2020 - Poisson Distribution, Poisson Process, Summations of Discrete Random Variables](/STAT400/February24)
 * [2/21/2020 - Hypergeometric & Negative Binomial Distributions](/STAT400/February21)
 * [2/19/2020 - Binomial Distribution](/STAT400/February19)
