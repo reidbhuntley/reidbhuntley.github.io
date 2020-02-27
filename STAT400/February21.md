@@ -61,7 +61,7 @@ $$
 
 ---
 In general if $X$ foloows $\text{NB}(r,p)$, then $$
-p(k)=P(X=k)={k+r-1\choose r-1}\cdot p^r(1-p)^{k-r}.
+p(k)=P(X=k)={k+r-1\choose r-1}\cdot p^r(1-p)^{k}.
 $$
 
 ---
