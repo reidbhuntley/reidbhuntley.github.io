@@ -16,6 +16,7 @@ If this page is useful to you, consider donating!
 ---
 
 ## STAT 400
+* [3/4/2020 - Normal (Gaussian) Distribution](/STAT400/March4)
 * [3/2/2020 - Continuous CDFs; Median, Mean, Variance, and Percentiles of Continuous RVs](/STAT400/March2)
 * [2/26/2020 - Continuous Random Variables, Probability Density Functions, Uniform Distribution](/STAT400/February26)
 * [2/24/2020 - Poisson Distribution, Poisson Process, Summations of Discrete Random Variables](/STAT400/February24)
