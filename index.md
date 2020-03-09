@@ -16,6 +16,7 @@ If this page is useful to you, consider donating!
 ---
 
 ## STAT 400
+* [3/9/2020 - Exponential Distribution, Approximating Binomial Distribution with a Normal Distribution](/STAT400/March9)
 * [3/6/2020 - Relating Standard and Nonstandard Normal Distributions](/STAT400/March6)
 * [3/4/2020 - Normal (Gaussian) Distribution](/STAT400/March4)
 * [3/2/2020 - Continuous CDFs; Median, Mean, Variance, and Percentiles of Continuous RVs](/STAT400/March2)
