@@ -60,10 +60,10 @@ $$\begin{aligned}
 # Nonstandard Normal Distributions
 __Proposition.__ Let $X$ follow $N(\mu,\sigma^2)$. Then $Z=\frac{x-\mu}{\sigma}$ follows $N(0,1)$, which we can prove by performing the same change of variable we used to calculate $E(X).$
 
-Thus, $$P(a\le X\le b)=P(\frac{a-\mu}{\sigma^2}\le Z\le \frac{b-\mu}{\sigma^2})=\Phi(\frac{b-\mu}{\sigma^2})-\Phi(\frac{a-\mu}{\sigma^2}).$$
+Thus, $$P(a\le X\le b)=P(\frac{a-\mu}{\sigma}\le Z\le \frac{b-\mu}{\sigma})=\Phi(\frac{b-\mu}{\sigma})-\Phi(\frac{a-\mu}{\sigma}).$$
 
 Similarly, $$
-P(a\le X)=P(\frac{a-\mu}{\sigma^2}\le Z)=1-\Phi(\frac{a-\mu}{\sigma^2})
+P(a\le X)=P(\frac{a-\mu}{\sigma}\le Z)=1-\Phi(\frac{a-\mu}{\sigma})
 $$ and $$
-P(X\le b)=P(Z\le \frac{b-\mu}{\sigma^2})=\Phi(\frac{b-\mu}{\sigma^2}).
+P(X\le b)=P(Z\le \frac{b-\mu}{\sigma})=\Phi(\frac{b-\mu}{\sigma}).
 $$
