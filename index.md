@@ -3,7 +3,7 @@
 ## Course Notes Repository
 
 * [STAT400 (Spring 2020)](/STAT400/index)
-* [MATH240 (Fall 2020)](/MATH240/index)
+* [MATH240 (Fall 2019)](/MATH240/index)
 
 ---
 <div style="display: flex; flex-direction: column; align-items: center;">
